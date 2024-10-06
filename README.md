@@ -91,11 +91,3 @@ The data was cleaned using **Power Query**, where the following steps were perfo
 
 
 
-
-
----
-
-### 🔗 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
